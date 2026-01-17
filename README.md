@@ -19,7 +19,7 @@ This project showcases a complete data warehouse solution built from scratch, in
 ### Data Flow
 
 ```
-![alt text](image-1.png)
+![](image-1.png)
 ```
 
 ## 🔄 ETL Pipeline Components
